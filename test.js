@@ -39,7 +39,7 @@ describe('Student Object', function() {
         expect(aboutme.student.bio).to.be.a('string');
     });
 
-    it('The bio should be desicriptive', function () {
+    it('The bio should be descriptive', function () {
         expect(aboutme.student.bio).to.have.length.above(140);
     });
 
