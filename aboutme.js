@@ -5,5 +5,5 @@ exports.student = {
     'gender': 'Female',
     'age': 20,
     'interests': ['football', 'gilmore girls', 'travel'],
-    'bio': 'I am from Lehi, UT and am going into Web Design. I love to travel and go to the beach, and am a HUGE University of Utah fan.  GO UTES!'
+    'bio': 'My name is Katelyn and I am from Lehi, UT and am going into Web Design. I love to travel and go to the beach, and am a HUGE University of Utah fan….especially football  GO UTES!'
 }
