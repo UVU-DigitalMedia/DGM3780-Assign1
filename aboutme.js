@@ -5,5 +5,5 @@ exports.student = {
 	'gender' : 'male',
 	'age' : 28,
 	'interests' : ['books','space','time'],
-	'bio' : 'I live on earth and i have lived a long time. well not that long. long enough, i can breath air and i can see food and smell water.'
+	'bio' : 'I live on earth and i have lived a long time. well not that long. long enough, i can breath air and i can see food and smell water. more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio, more bio.'
 }
