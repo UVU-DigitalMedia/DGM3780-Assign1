@@ -1,7 +1,7 @@
 
 //Construct an object with the following properties: name(String), age(number), gender(String), bio(String, longer than 140 chars)
 exports.student = {
-    'name': 'Katelyn Earl',
+    'name': 'Katelyn Danielle Earl',
     'gender': 'Female',
     'age': 20,
     'interests': ['football', 'gilmore girls', 'travel'],
