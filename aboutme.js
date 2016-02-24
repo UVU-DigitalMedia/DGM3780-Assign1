@@ -3,7 +3,7 @@
 exports.student = {
   name: 'Lorin Steel',
   gender: 'Male',
-  age: '26',
+  age: 26,
   interests: [
     'Coding',
     'Gaming',
